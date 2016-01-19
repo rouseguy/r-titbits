@@ -3,7 +3,7 @@ title: R titbits generated @random()
 header-img: img/home-bg.jpg
 email: bargava@gmail.com
 description: "A blog to document experiments with the statistical language R"
-baseurl: "/r-titbits"
+baseurl: ""
 url: "http://github.com/rouesguy"
 twitter_username: bargava
 github_username:  rouseguy
