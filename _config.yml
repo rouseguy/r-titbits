@@ -1,7 +1,7 @@
 # Site settings
 title: R titbits generated @random()
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: bargava@gmail.com
 description: "A blog to document experiments with the statistical language R"
 baseurl: "/r-titbits"
 url: "http://yourdomain.com"
