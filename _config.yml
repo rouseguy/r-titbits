@@ -1,5 +1,5 @@
 # Site settings
-title: R titbits generated @random()
+title: titbits generated @random()
 header-img: img/home-bg.jpg
 email: bargava@gmail.com
 description: "A blog to document experiments with the statistical language R"
