@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: R Titbits generated @random()
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "A blog to document experiments with the statistical language R"
 baseurl: "/r-titbits"
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: bargava
+github_username:  rouseguy
+facebook_username:  bargava
 
 # Build settings
 markdown: kramdown
