@@ -5,6 +5,9 @@ subtitle:   "Find number of times price went up in a week."
 date:       2016-01-19 12:00:00
 author:     "Bargava"
 header-img: "img/post-bg-2016-1.jpg"
+tags:
+- R
+- Data Science
 ---
 
 Consider the following problem: *Prices of the product at the end of the day are given for one week. Find the number of times price went up compared to the previous day?*
