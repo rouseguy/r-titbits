@@ -1,4 +1,4 @@
-<div class="post-tags"> Tags: 
+<span class="post-tags"> Tags: 
   {% if post %}
     {% assign tags = post.tags %}
   {% else %}
@@ -7,4 +7,4 @@
   {% for tag in tags %}
   <a href="{{site.site}}{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>{% unless forloop.last %},{% endunless %}
   {% endfor %}
-</div>
+</span>
