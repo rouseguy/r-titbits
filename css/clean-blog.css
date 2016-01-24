@@ -435,3 +435,8 @@ body {
 .post-tags {
   text-align: right;
 }
+.post-tags:hover,
+.post-tags:focus {
+  text-decoration: none;
+  color: #0085a1;
+}
