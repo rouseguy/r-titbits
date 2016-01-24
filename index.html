@@ -14,7 +14,7 @@ description: "bias or random()?"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted on {{ post.date | date: "%B %-d, %Y" }} {{% include post.tags %}} </p>
+    <p class="post-meta">Posted on {{ post.date | date: "%B %-d, %Y" }} {{post.tags}} </p>
 </div>
 <hr>
 {% endfor %}
