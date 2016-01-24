@@ -6,8 +6,8 @@ permalink: /tags/
 <ul class="tag-cloud">
 {% for tag in site.tags %}
   <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
-    <h4></h4><a href="#{{ tag | first | slugize }}">
-      {{ tag | first }} </h4>
+    <h4><a href="#{{ tag | first | slugize }}"></h4>
+      {{ tag | first }}
     </a>
   </li>
 {% endfor %}
