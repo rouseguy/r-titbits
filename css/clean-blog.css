@@ -402,21 +402,36 @@ body {
   padding: 0;
   text-align: justify; 
   font-size: 16px;
+  color: #404040;
   li {
     display: inline-block;
     margin: 0 12px 12px 0; 
   }
 }
+.tag-cloud li > a:hover,
+.tag-cloud li > a:focus{
+  text-decoration: none;
+  color: #0085a1;
+}
 #archives {
   padding: 5px;
+  color: #404040;
 }
 .archive-group {
   margin: 5px;
   border-top: 1px solid #ddd;
+  color: #404040;
 }
 .archive-item {
   margin-left: 5px;
+  color: #404040;
 }
+.archive-item:hover,
+ .archive-item:focus {
+  text-decoration: none;
+  color: #0085a1;
+}
+
 .post-tags {
   text-align: right;
 }
